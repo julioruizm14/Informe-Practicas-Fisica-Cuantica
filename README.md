@@ -46,3 +46,8 @@ El análisis de datos se ha realizado en **R**. Para ejecutar el script `practic
 ```r
 install.packages("ggplot2")
 install.packages("latex2exp")
+```
+El script genera automáticamente:
+- Regresiones lineales para el efecto fotoeléctrico ($V$ vs $\nu$).
+- Gráficas de los espectros de emisión ajustados a la fórmula de Rydberg.
+- Cálculos de pendientes y errores experimentales.
