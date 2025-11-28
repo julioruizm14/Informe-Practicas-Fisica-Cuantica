@@ -39,7 +39,7 @@ Demostración de la cuantización de los niveles de energía en átomos de Mercu
     * Energía de excitación medida: $4.92 \text{ eV}$.
     * Valor teórico de referencia: $4.9 \text{ eV}$.
 
-## 💻 Requisitos y Ejecución del Código
+## Requisitos y Ejecución del Código
 
 El análisis de datos se ha realizado en **R**. Para ejecutar el script `practica1.R`, es necesario tener instaladas las siguientes librerías:
 
